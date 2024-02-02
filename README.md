@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dhanasekaran-M
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data science in Guvi
+- 🌱 I’m currently learning Master Data science Course at Guvi
+-  I am good at Python Programming, Sql, Data Preprocessing, EDA, Machine Learning
 - 📫 E-mail : dhanasekaran.ms.2002@gmail.com
 - LinkedIn : https://www.linkedin.com/in/dhana-sekaran-98697a2a3/ 
 
